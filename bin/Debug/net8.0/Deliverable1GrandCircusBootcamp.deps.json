@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Deliverable1GrandCircusBootcamp/1.0.0": {
+        "runtime": {
+          "Deliverable1GrandCircusBootcamp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Deliverable1GrandCircusBootcamp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

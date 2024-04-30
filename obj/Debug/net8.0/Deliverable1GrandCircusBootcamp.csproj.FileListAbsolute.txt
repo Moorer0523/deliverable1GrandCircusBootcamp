@@ -1,0 +1,14 @@
+C:\LearnToCode\CodeAlongs\Deliverable1GrandCircusBootcamp\obj\Debug\net8.0\Deliverable1GrandCircusBootcamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\LearnToCode\CodeAlongs\Deliverable1GrandCircusBootcamp\obj\Debug\net8.0\Deliverable1GrandCircusBootcamp.AssemblyInfoInputs.cache
+C:\LearnToCode\CodeAlongs\Deliverable1GrandCircusBootcamp\obj\Debug\net8.0\Deliverable1GrandCircusBootcamp.AssemblyInfo.cs
+C:\LearnToCode\CodeAlongs\Deliverable1GrandCircusBootcamp\obj\Debug\net8.0\Deliverable1GrandCircusBootcamp.csproj.CoreCompileInputs.cache
+C:\LearnToCode\CodeAlongs\Deliverable1GrandCircusBootcamp\bin\Debug\net8.0\Deliverable1GrandCircusBootcamp.exe
+C:\LearnToCode\CodeAlongs\Deliverable1GrandCircusBootcamp\bin\Debug\net8.0\Deliverable1GrandCircusBootcamp.deps.json
+C:\LearnToCode\CodeAlongs\Deliverable1GrandCircusBootcamp\bin\Debug\net8.0\Deliverable1GrandCircusBootcamp.runtimeconfig.json
+C:\LearnToCode\CodeAlongs\Deliverable1GrandCircusBootcamp\bin\Debug\net8.0\Deliverable1GrandCircusBootcamp.dll
+C:\LearnToCode\CodeAlongs\Deliverable1GrandCircusBootcamp\bin\Debug\net8.0\Deliverable1GrandCircusBootcamp.pdb
+C:\LearnToCode\CodeAlongs\Deliverable1GrandCircusBootcamp\obj\Debug\net8.0\Deliverable1GrandCircusBootcamp.dll
+C:\LearnToCode\CodeAlongs\Deliverable1GrandCircusBootcamp\obj\Debug\net8.0\refint\Deliverable1GrandCircusBootcamp.dll
+C:\LearnToCode\CodeAlongs\Deliverable1GrandCircusBootcamp\obj\Debug\net8.0\Deliverable1GrandCircusBootcamp.pdb
+C:\LearnToCode\CodeAlongs\Deliverable1GrandCircusBootcamp\obj\Debug\net8.0\Deliverable1GrandCircusBootcamp.genruntimeconfig.cache
+C:\LearnToCode\CodeAlongs\Deliverable1GrandCircusBootcamp\obj\Debug\net8.0\ref\Deliverable1GrandCircusBootcamp.dll
